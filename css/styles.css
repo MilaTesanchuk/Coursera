@@ -9,8 +9,10 @@ section {
    background-color: gray;
    border: 1px solid black;
    position: relative;
-   margin: 10px;
+   margin-bottom: 25px;
    padding: 10px;
 }
+.navbar-default .navbar-nav>li>a {
 
+}
 /* main content*/
